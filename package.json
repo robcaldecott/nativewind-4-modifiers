@@ -1,5 +1,5 @@
 {
-  "name": "natibewind-4-placeholder",
+  "name": "nativewind-4-modifiers",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -16,7 +16,8 @@
     "react": "18.2.0",
     "react-native": "0.72.6",
     "react-native-reanimated": "3.3.0",
-    "react-native-svg": "13.9.0"
+    "react-native-svg": "13.9.0",
+    "tailwind-merge": "^2.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",

@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "nativewind-4-placeholder",
-    "slug": "nativewind-4-placeholder",
+    "name": "nativewind-4-modifiers",
+    "slug": "nativewind-4-modifiers",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
